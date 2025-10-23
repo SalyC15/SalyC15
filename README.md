@@ -35,7 +35,7 @@ Actualmente cursando 4to semestre, apasionada por el desarrollo de software y si
 - ✅ Participar en hackathons y eventos tecnológicos
 
 ## 🤝 ¡Conectemos!
-- 📧 Email: [mcevallos8901@estudiantes@uta.edu.ec]
+- 📧 Email: [mcevallos8901@uta.edu.ec]
 - 🌐 Portfolio: [En construcción 🚧]
 
 ## ⚡ Dato curioso
