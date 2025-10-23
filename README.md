@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Melaby Cevallos
+# ¡Hola! 👋 Soy Melany Cevallos
 
 ## 👨‍💻 Sobre Mí
 Estudiante de **Ingeniería en Software** en la **Universidad Técnica de Ambato** 🎓  
@@ -24,7 +24,7 @@ Actualmente cursando 4to semestre, apasionada por el desarrollo de software y si
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📊 Estadísticas de GitHub
-![Estadísticas de Sally](https://github-readme-stats.vercel.app/api?username=SalyC15&show_icons=true&theme=tokyonight)
+![Estadísticas de Saly](https://github-readme-stats.vercel.app/api?username=SalyC15&show_icons=true&theme=tokyonight)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SalyC15&layout=compact&theme=tokyonight)
 
@@ -36,7 +36,6 @@ Actualmente cursando 4to semestre, apasionada por el desarrollo de software y si
 
 ## 🤝 ¡Conectemos!
 - 📧 Email: [mcevallos8901@estudiantes@uta.edu.ec]
-- 💼 LinkedIn: [Tu perfil de LinkedIn]
 - 🌐 Portfolio: [En construcción 🚧]
 
 ## ⚡ Dato curioso
@@ -44,6 +43,3 @@ Cuando no estoy programando, me gusta [tu hobby favorito] ☕
 
 ---
 
-💡 **"El código es poesía"** - Cada línea cuenta una historia
-
-![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=SalyC15.SalyC15)
