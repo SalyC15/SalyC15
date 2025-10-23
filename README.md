@@ -39,7 +39,7 @@ Actualmente cursando 4to semestre, apasionada por el desarrollo de software y si
 - 🌐 Portfolio: [En construcción 🚧]
 
 ## ⚡ Dato curioso
-Cuando no estoy programando, me gusta [tu hobby favorito] ☕
+Cuando no estoy programando, me gusta ver series. ☕
 
 ---
 
